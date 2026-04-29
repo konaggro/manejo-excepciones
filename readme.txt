@@ -7,3 +7,5 @@ En programas reales, uno de los errores más comunes es el ingreso incorrecto de
 usuario, como escribir texto en vez de números.
 El manejo de excepciones es importante porque permite que el programa no se detenga de forma abrupta 
 ante un error, mejorando la experiencia del usuario y facilitando la interacción con el sistema.
+
+https://github.com/konaggro/manejo-excepciones.git
